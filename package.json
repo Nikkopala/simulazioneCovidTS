@@ -1,0 +1,10 @@
+{
+  "name": "simulazioneCovidTS",
+  "version": "1.0.0",
+  "description": "Una simulazione di contagi in TS",
+  "main": "index.js",
+  "repository": "git@github.com:Nikkopala/simulazioneCovidTS.git",
+  "author": "Nikkopala <nikkopala@hotmail.it>",
+  "license": "MIT",
+  "private": true
+}
